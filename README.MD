@@ -1,5 +1,6 @@
 # What is this repository?
-<>
+This is a lecture on Foundation Models in german language. It is part of a lecture series called "Generative KI" (see [here](https://github.com/AI-for-Business/Vorlesung-Generative-KI)).
+It contains the compiled PDF document as well as the source PowerPoint file (zipped and split into 6 parts to match GitHub's file size limit of 50 MB).
 
 
 # What can I use it for?
@@ -28,19 +29,17 @@ As such:
 
 
 # Authors, Citation
-Author: <>
+Simeon Allmendinger {0009-0005-8741-7734}, University of Bayreuth, Germany
 
 Cite as:\
-<>
-<!--
-*Lecture "Generative KI" by Project ABBA, licensed under
+*Lecture "Foundation Models" by Simeon Allmendinger, licensed under
 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt),
-via https://github.com/AI-for-Business/Vorlesung-Generative-KI*
--->
+via https://github.com/AI-for-Business/Vorlesung-Generative-KI-Einheit-5*
 
 
 # DOI - Code
 <>
+
 
 # Contact / About us
 * You can find all of our repositories [here](https://github.com/orgs/AI-for-Business/repositories).
@@ -50,4 +49,6 @@ via https://github.com/AI-for-Business/Vorlesung-Generative-KI*
 
 
 # Author's Note
-<>
+This repository contains both the original PowerPoint file and the compiled PDF document.
+The PowerPoint file (273 MB) had to be compressed to fit the GitHub file size limit of max. 50 MB.
+We used the free version of WinZip. However, you can use any program that handles .zip files to access and modify the PowerPoint file.
