@@ -38,7 +38,7 @@ via https://github.com/AI-for-Business/Vorlesung-Generative-KI-Einheit-5*
 
 
 # DOI - Code
-<>
+[![DOI](https://zenodo.org/badge/848257591.svg)](https://doi.org/10.5281/zenodo.13857030)
 
 
 # Contact / About us
